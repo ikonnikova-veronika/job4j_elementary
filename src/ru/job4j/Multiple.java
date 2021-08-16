@@ -23,7 +23,5 @@ public class Multiple {
 //            int result = a * b;
 //            System.out.println(a + " * " + b + " = " + result);
 //        }
-
-
     }
 }
