@@ -13,15 +13,5 @@ public class Multiple {
         System.out.println("1 * 8 = 8");
         System.out.println("1 * 9 = 9");
 
-//        Вариант 2
-//
-//        int a = 1;
-//        int b = 0;
-//
-//        for (int i = 1; i < 10; i++) {
-//            b+=1;
-//            int result = a * b;
-//            System.out.println(a + " * " + b + " = " + result);
-//        }
     }
 }
