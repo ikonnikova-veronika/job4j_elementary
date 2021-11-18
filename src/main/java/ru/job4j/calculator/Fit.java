@@ -15,15 +15,5 @@ public class Fit {
         System.out.println("Man " + height + " is " + man);
         double woman = Fit.womanWeight(height);
         System.out.println("Woman " + height + " is " + woman);
-
-        /* На всякий случай если вдруг надо одновременно указать рост мужчины и женщины
-
-        double manHeight = 187.4;
-        double manWeight = Fit.manWeight(manHeight);
-        System.out.println("Man " + manHeight + " is " + manWeight);
-        double womanHeight = 162;
-        double womanWeight = Fit.womanWeight(womanHeight);
-        System.out.println("Woman " + womanHeight + " is " + womanWeight); */
-
     }
 }
